@@ -3,7 +3,7 @@
 
 export default {
   before: {
-    all: [],
+    all: [(context:any) => console.log(context.data)],
     find: [],
     get: [],
     create: [],

@@ -46,8 +46,8 @@
     "mongodb-core": "^3.2.7",
     "mongoose": "^5.6.11",
     "serve-favicon": "^2.5.0",
-    "winston": "^3.0.0",
-    "shx": "^0.3.2"
+    "shx": "^0.3.2",
+    "winston": "^3.0.0"
   },
   "devDependencies": {
     "@types/compression": "^1.0.1",
@@ -64,6 +64,6 @@
     "ts-mocha": "^6.0.0",
     "ts-node-dev": "^1.0.0-pre.44",
     "tslint": "^5.19.0",
-    "typescript": "^3.5.3"
+    "typescript": "^3.7.2"
   }
 }
